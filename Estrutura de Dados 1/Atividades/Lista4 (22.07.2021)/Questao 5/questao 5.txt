@@ -1,0 +1,24 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 5- Seja a seguinte sequência de instruções em programa C: 
+int *pti; 
+int i=10; 
+pti = &i; 
+
+Qual afirmativa é falsa? 
+
+a) pti armazena o endereço de i 
+b) *pti é igual a 10
+c) Ao se executar *pti=20; i passará a ter o valor 20 
+d) Ao se alterar o valor de i, *pti será modificado 
+e) pti é igual a 10 
+
+RESOLUÇÃO:
+ e) pti é igual a 10 
+ 

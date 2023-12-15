@@ -1,0 +1,34 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 9- Seja vet um vetor de 4 elementos: TIPO vet[4]. Supor que depois da declaração, vet esteja 
+armazenado no endereço de memória 4092 (ou seja, o endereço de vet[0]). Supor também que na 
+máquina usada uma variável do tipo char ocupa 1 byte, do tipo int ocupa 2 bytes, do tipo float ocupa 
+4 bytes e do tipo double ocupa 8 bytes.
+
+Qual o valor de vet+1, vet+2 e vet+3 se:
+ 
+a) vet for declarado como char? 
+
+RESOLUÇÃO: 
+4093,4095,4097.
+
+b) vet for declarado como int? 
+
+RESOLUÇÃO:
+4095,4098,4100.
+
+c) vet for declarado como float? 
+
+RESOLUÇÃO:
+4097,4102,4107
+
+d) vet for declarado como double? 
+
+RESOLUÇÃO:
+4111,4120,4128

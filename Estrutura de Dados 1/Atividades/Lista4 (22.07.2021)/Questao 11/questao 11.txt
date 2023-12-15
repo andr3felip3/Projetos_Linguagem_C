@@ -1,0 +1,21 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 11-Assumindo que pulo[] é um vetor do tipo int, quais das seguintes expressões referenciam o valor do 
+terceiro elemento da matriz?
+ 
+a) *(pulo + 2) 
+
+b) *(pulo + 4) 
+
+c) pulo + 4 
+
+d) pulo + 2
+
+RESOLUÇÃO:
+  a) *(pulo + 2)

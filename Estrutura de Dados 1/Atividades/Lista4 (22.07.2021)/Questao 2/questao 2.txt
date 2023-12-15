@@ -1,0 +1,18 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 2- Qual das instruções abaixo é correta para declarar um ponteiro para inteiro? 
+
+a) *int pti; 
+b) *pti; 
+c) &i; 
+d) int_pti pti; 
+e) int *pti; 
+
+RESOLUÇÃO:
+  e) int *pti;

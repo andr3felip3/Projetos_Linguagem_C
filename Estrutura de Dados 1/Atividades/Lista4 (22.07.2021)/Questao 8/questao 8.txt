@@ -1,0 +1,36 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+Questao 8- O que fazem os seguintes programas?
+
+a) #include <conio.h> 
+ #include <stdio.h> 
+ void main() { 
+ int vet[] = {4,9,12}; 
+ int i,*ptr; 
+ ptr = vet; 
+ for(i = 0 ; i < 3 ; i++) { 
+ printf("%d ",*ptr++); 
+ } 
+ } 
+
+RESOLUÇÃO:
+  Exibe o 9,12
+
+b) #include <conio.h> 
+ #include <stdio.h> 
+ void main(){ 
+ int vet[] = {4,9,12}; 
+ int i,*ptr; 
+ ptr = vet; 
+ for(i = 0 ; i < 3 ; i++) { 
+ printf("%d ",(*ptr)++); 
+ } 
+ }
+
+RESOLUÇÃO:
+  Exibe o 5,10,13

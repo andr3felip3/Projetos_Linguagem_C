@@ -1,0 +1,18 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 10- Qual será a saída deste programa supondo que i ocupa o endereço 4094 na memória? 
+main() {
+ int i=5, *p;
+ p = &i;
+ printf(“%x %d %d %d %d \n”, p,*p+2,**&p,3**p,**&p+4);
+}
+
+RESOLUÇÃO:
+  Exibe:
+ 4094,4104,4094,3 4094,4112.

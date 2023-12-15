@@ -1,0 +1,12 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 1- O que é um ponteiro? E para que serve?
+
+RESOLUÇÃO:
+Um ponteiro é uma variavel especial que serve para armazenar endereços de memória.

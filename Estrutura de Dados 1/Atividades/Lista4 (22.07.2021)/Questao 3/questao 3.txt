@@ -1,0 +1,23 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 3- Seja o seguinte trecho de programa:
+ 
+int i=3,j=5; 
+int *p, *q; 
+p = &i; 
+q = &j; 
+
+Qual é o valor das seguintes expressões? 
+a) p == &i 
+b) *p - *q 
+c) **&p 
+d) 3* - *p/(*q)+7
+
+RESOLUÇÃO:
+ a) p == &i 

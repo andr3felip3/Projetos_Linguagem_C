@@ -1,0 +1,21 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+Questao 12. Supor a declaração: int mat[4], *p, x; Quais expressões são válidas? Justifique: 
+
+a) p = mat + 1; 
+
+b) p = mat++; 
+
+c) p = ++mat; 
+
+d) x = (*mat)++;
+
+RESOLUÇÃO:
+ Todas são válidas com exceção da d) pois uma variavel esta recebendo uma matriz com função de ponteiro 
+ sendo que ela nao foi declarada assim. 

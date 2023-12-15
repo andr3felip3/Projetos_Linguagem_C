@@ -1,0 +1,24 @@
+UNIVERSIDADE FEDERAL DE RONDONIA - DACC/UNIR 
+NOME: André felipe costa da silva 
+DATA: 22/07/2021 
+COMPILADOR: Dev c++ 
+SISTEMA OPERACIONAL: Windows 
+
+LISTA 4
+
+4- Seja a seguinte sequência de instruções: 
+int i=10, j=20; 
+int *pti, *ptj; 
+pti = &i; 
+ptJ = &j;
+
+Qual expressão não é válida? 
+a) i = pti == ptj; 
+b) i = pti - ptj; 
+c) pti+=ptj; 
+d) pti++; 
+e) i = pti || ptj; 
+
+RESOLUÇÃO:
+  e) i = pti || ptj; 
+ 
